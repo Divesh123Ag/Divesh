@@ -1,0 +1,10 @@
+Store_name , Store_add , Store_type, Itemlist
+supermart,dapodi,grocery,"{'rice': '40', 'cookies': '15', 'oil': '100', 'sugar': '20'}"
+kiranastore,sangvi,grocery,"{'chips': '10', 'hot sauce': '75', 'eggs': '50', 'wheat': '20'}"
+supershopee,oats,70,"{'water bottle': '10', 'soup': '35', 'maggie': '12'}"
+poojastore,kasarwadi,grocery,"{'IceCream': '20', 'salt': '50', 'pepper': '25', 'ketchup': '40'}"
+krishnastore,sangvi,grocery,"{'potatoes': '15', 'tomatoes': '10', 'coffee': '20', 'oregano': '20'}"
+mahesh kirana,pimpri,grocery,"{'candle': '10', 'juice': '20', 'cold drink': '40', 'glass': '10'}"
+suresh shop,pcmc,grocery,"{'daal': '60', 'brocoli': '60', 'flour': '25'}"
+mystore,bopodi,grocery,"{'chicken': '100', 'paneer': '80', 'chocolate': '50'}"
+star bazaar,saudagar,grocery,"{'perfume': '200', 'tea': '20', 'ghee': '100'}"
